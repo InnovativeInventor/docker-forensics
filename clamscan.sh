@@ -1,0 +1,1 @@
+clamscan --infected --recursive images/
