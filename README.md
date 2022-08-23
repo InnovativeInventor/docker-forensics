@@ -1,6 +1,7 @@
 ## Docker-forensics 
 In the real-world, sometimes you're given a Docker image of dubious provenance.
 This repo aims to house some useful scripts/tools I've made to analyze and verify untrusted Docker images for backdoors or malware.
+Basically, here are some lightweight reversing tools for black-box Docker images.
 
 ## Example usage
 
